@@ -12,9 +12,7 @@ eventually lead to / connected to path_follow. Note that “eventually” means 
 to one or more trail first before finally point to the path_follow. This particularly important when you want to traverse the trails. (i.e.
 deciding which trail to go next)
 
-Task 1: Trail creation and
-
-Edit methods
+Task 1: Trail creation and Edit methods
 
 • Now that you (hopefully) have understood what a trail is and how it is structured, in
 task 1 you need to complete the implementation of Trail, TrailSeries and TrailSplit. If
@@ -32,9 +30,7 @@ self.mountain = mountain, self.store = None, self.path_top = None, etc.
 • Thus it should be either returning new instance (e.g. return TrailSeries(....) or old
 instance (e.g. return self.following)
 
-Task 2: Traversing Trails with
-
-Terrific Tricks
+Task 2: Traversing Trails with Terrific Tricks
 
 • By the time you start this task, you should have completed
 Task 1.
@@ -50,9 +46,7 @@ should be self.store.
 (iterative based) use appropriate ADT to assist the
 process.
 
-Task 2: Traversing Trails with
-
-Terrific Tricks
+Task 2: Traversing Trails with Terrific Tricks
 
 • Input of follow_path is WalkerPersonality instance. Note that
 WalkerPersonality has been fully implemented and thus you
