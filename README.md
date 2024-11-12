@@ -1,6 +1,4 @@
-Task 1: Trail creation and
-
-Edit methods
+**FIT1008 A2**
 
 • As indicated in the A2 specification, please make sure you read the slide “what is trail”. You should know that the trail is implemented using the
 concept of linked structure. Here’s a couple of important points:
